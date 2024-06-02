@@ -8,10 +8,6 @@
 
 实物机器人展示视频（转载自本人B站）：https://www.bilibili.com/video/BV1HN4y1r7b5/?spm_id_from=333.999.0.0 
 
-![](https://github.com/hhz0328/ros1_exoskeleton_maxon_simulation/blob/noetic/%E4%BB%BF%E7%9C%9F%E6%8E%A7%E5%88%B6%E6%A1%86%E6%9E%B6.jpg)
-
-![](https://github.com/hhz0328/ros1_canopen_maxon_control/blob/noetic/%E4%BB%BF%E7%9C%9F%26%E5%AE%9E%E7%89%A9%E8%81%94%E8%B0%83.jpg)
-
 **效果展示：**
 
 <div align="center">
@@ -19,7 +15,7 @@
 <tr>
 <td>
 
-![](https://github.com/hhz0328/hhz0328/blob/main/%E5%9B%BE%E5%BA%93/1.gif)  
+![](https://github.com/hhz0328/ros1_canopen_maxon_control/blob/noetic/demo.gif)  
 
 </td>
 </tr>
